@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: red;
+}
+ol{
+    border: 3px double gold;
+    color:gold;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: gold;
+    text-align: center;
+}
+footer{
+    color: turquoise
+}
+button{
+    color: red;
+    background-color: gold;
+}
+td{
+    color: red;
+    background-color: rgb(236, 227, 227);
+    width: 400px;
+    height: 100px;
+    font-size: 40px
+    
+}
